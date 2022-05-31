@@ -8,7 +8,7 @@ In this challenge I created an application in which several prompts appear on th
 
 
 ## Link to Deployed Website
-[Deployed Site]([https://link-url-here.org](https://jeanette-ralph.github.io/Password-Generator/)
+[Deployed Site](https://jeanette-ralph.github.io/Password-Generator/)
 
 
 
